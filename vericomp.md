@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Vericomp - Verifiable Composition of Dynamics and Control Algorithms for Robot Motion
 ---
 
