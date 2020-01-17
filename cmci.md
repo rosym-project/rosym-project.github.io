@@ -20,6 +20,6 @@ realized in our workbench for modeling robot control architectures
 "CoSiMA".
 
 ## Consortium:
-[![Technische Universität Braunschweig]("http://robmosys.eu/wp-content/uploads/2019/10/Siegel_TU_Braunschweig_transparent.svg_-300x111.png")](https://www.tu-braunschweig.de/)
+[<img src="http://robmosys.eu/wp-content/uploads/2019/10/Siegel_TU_Braunschweig_transparent.svg_-300x111.png">](https://www.tu-braunschweig.de/)
 
-[![CoR-Lab]("http://robmosys.eu/wp-content/uploads/2019/10/CoR-Lab_RGB_mit-300x119.jpg")](https://www.cor-lab.de/research-institute-cognition-and-robotics)
+[<img src="http://robmosys.eu/wp-content/uploads/2019/10/CoR-Lab_RGB_mit-300x119.jpg">](https://www.cor-lab.de/research-institute-cognition-and-robotics)
