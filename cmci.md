@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Composable Models for Compliant Interaction Control (CMCI)
+title: CMCI - Composable Models for Compliant Interaction Control
 ---
 
 With the advent of highly redundant robots with model-based computed
