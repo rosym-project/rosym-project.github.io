@@ -1,0 +1,12 @@
+# Site settings
+title: RoSym Project
+description: >-
+  Tools for modeling and simulating robotic systems.
+
+header:
+  links:
+    Languages: /languages
+    Tools: /tools
+    CMCI Project: /cmci
+    Vericomp Project: /vericomp
+    RobMoSys: /robmosys
