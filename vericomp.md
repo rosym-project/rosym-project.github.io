@@ -17,3 +17,7 @@ Generating robot motion is mandatory to accomplish a plenitude of tasks includin
 <use xlink:href="#logo-type"></use></svg></span>](https://www.uni-bielefeld.de/)
 
 [<img src="http://robmosys.eu/wp-content/uploads/2019/10/h-brs-300x222.jpg">](https://www.h-brs.de/de)
+
+## Acknowledgements
+
+This work was supported by the European Union’s Horizon 2020 project [RobMoSys – Composable Models and Software](https://robmosys.eu/) (grant agreement No 732410).
