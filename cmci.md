@@ -19,6 +19,11 @@ interaction tasks. Both, the modeling and synthesis aspects will be
 realized in our workbench for modeling robot control architectures
 "CoSiMA".
 
+<video style="width:70%" controls>
+  <source src="video/cmci_final.m4v">
+  Your browser does not support the video tag.
+</video>
+
 ## Consortium:
 [<img src="http://robmosys.eu/wp-content/uploads/2019/10/Siegel_TU_Braunschweig_transparent.svg_-300x111.png">](https://www.tu-braunschweig.de/)
 
