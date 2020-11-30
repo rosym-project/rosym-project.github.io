@@ -20,8 +20,8 @@ realized in our workbench for modeling robot control architectures
 "CoSiMA".
 
 A video showing the workflow can be seen below:
-<video style="width:100%" controls>
-  <source src="video/cmci_final.m4v">
+<video style="width:100%" controls="controls" preload="metadata">
+  <source src="video/cmci_final.m4v#t=0.5">
   Your browser does not support the video tag.
 </video>
 
