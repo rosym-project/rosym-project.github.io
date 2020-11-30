@@ -10,6 +10,6 @@ Generating robot motion is mandatory to accomplish a plenitude of tasks includin
 <video width="640" height="480" controls><source src="video/itp-presentation.ogv" type="video/ogg">Your browser does not support the video tag.</video>
 
 ## Consortium:
-[<img src="http://robmosys.eu/wp-content/uploads/2019/11/index-1-300x116.png">](https://www.uni-bielefeld.de/)
+[<symbol id="logo-square" viewBox="0 0 45 45"><path class="st0" d="M35 10V0H0v45h45V10z"></path></symbol>](https://www.uni-bielefeld.de/)
 
 [<img src="http://robmosys.eu/wp-content/uploads/2019/10/h-brs-300x222.jpg">](https://www.h-brs.de/de)
