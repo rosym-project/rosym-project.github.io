@@ -21,7 +21,7 @@ realized in our workbench for modeling robot control architectures
 
 A video showing the workflow can be seen below:
 <video style="width:100%" controls="controls" preload="metadata">
-  <source src="video/cmci_final.m4v#t=0.5">
+  <source src="video/cmci_final.m4v#t=0.5" type="video/m4v">
   Your browser does not support the video tag.
 </video>
 
