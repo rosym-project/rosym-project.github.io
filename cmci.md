@@ -19,7 +19,7 @@ interaction tasks. Both, the modeling and synthesis aspects will be
 realized in our workbench for modeling robot control architectures
 "CoSiMA".
 
-<video style="width:70%" controls>
+<video style="width:100%" controls>
   <source src="video/cmci_final.m4v">
   Your browser does not support the video tag.
 </video>
