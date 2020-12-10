@@ -25,11 +25,25 @@ realized in our workbench for modeling robot control architectures
   Your browser does not support the video tag.
 </video>
 
-## Consortium:
-[<img src="http://robmosys.eu/wp-content/uploads/2019/10/Siegel_TU_Braunschweig_transparent.svg_-300x111.png">](https://www.tu-braunschweig.de/)
+## Replicate our Results
+The language workbenches, DSLs and the embedded simulation environment are available at our [github orgranization](https://github.com/rosym-project/). To learn more about our control architecture for compliant interaction please refer to [1].
 
-[<img src="http://robmosys.eu/wp-content/uploads/2019/10/CoR-Lab_RGB_mit-300x119.jpg">](https://www.cor-lab.de/research-institute-cognition-and-robotics)
+The backend is based on the OpenSoT [2] library by the Humanoids & Human Centered Mechatronics Lab at the Italian Institute of Technology (IIT). You can download Debian packages (`-dev` variant with header files) of the OpenSoT [here](#). To learn more about the specific compliant behaviour in the video you can refere to [3].
+
+## Consortium:
+- [Research institute for cognition and robotics, Universität Bielefeld](https://www.cor-lab.de/research-institute-cognition-and-robotics)
+- [Institut für Robotik und Prozessinformatik, Technische Universität Braunschweig](https://www.rob.cs.tu-bs.de/)
+
+[<img src="http://robmosys.eu/wp-content/uploads/2019/10/Siegel_TU_Braunschweig_transparent.svg_-300x111.png" height="64" />](https://www.rob.cs.tu-bs.de/)
+[<img src="http://robmosys.eu/wp-content/uploads/2019/10/CoR-Lab_RGB_mit-300x119.jpg" height="64" />](https://www.cor-lab.de/research-institute-cognition-and-robotics)
 
 ## Acknowledgements
 
 This work was supported by the European Union’s Horizon 2020 project [RobMoSys – Composable Models and Software](https://robmosys.eu/) (grant agreement No 732410).
+
+## References
+[1] D. L. Wigand, N. Dehio, and S. Wrede. *Model-Based Specification of Control Architecturesfor Compliant Interaction with the Environment*. In2020 IEEE/RSJ International Conferfence on Intelligent Robots and Systems (IROS), 2020.
+
+[2] A. Rocchi, E. M. Hoffman, D. G. Caldwell, and N. G. Tsagarakis. *Opensot: A Whole-Body Control Library for the Compliant Humanoid Robot Coman*. In2015 IEEE InternationalConference on Robotics and Automation (ICRA), pages 6248–6253, 2015.
+
+[3] E. M. Hoffman, A. Laurenzi, L. Muratore, N. G. Tsagarakis, and D. G. Caldwell. *Multi-Priority Cartesian Impedance Control Based on Quadratic Programming Optimization*. In2018IEEE International Conference on Robotics and Automation (ICRA), pages 309–315, 2018.
