@@ -28,7 +28,7 @@ realized in our workbench for modeling robot control architectures
 ## Replicate our Results
 The language workbenches, DSLs and the embedded simulation environment are available at our [github orgranization](https://github.com/rosym-project/). To learn more about our control architecture for compliant interaction please refer to [1].
 
-The backend is based on the OpenSoT [2] library by the Humanoids & Human Centered Mechatronics Lab at the Italian Institute of Technology (IIT). You can download Debian packages (`-dev` variant with header files) of the OpenSoT [here](#). To learn more about the specific compliant behaviour in the video you can refere to [3].
+The backend is based on the OpenSoT [2] library by the Humanoids & Human Centered Mechatronics Lab at the Italian Institute of Technology (IIT). You can download Debian packages (`-dev` variant with header files) of the OpenSoT [here](https://github.com/rosym-project/rosym-project.github.io/raw/master/dependencies/focal-20.04-2020_09_24_11_12_34.zip). To learn more about the specific compliant behaviour in the video you can refere to [3].
 
 ## Consortium:
 - [Research institute for cognition and robotics, Universität Bielefeld](https://www.cor-lab.de/research-institute-cognition-and-robotics)
